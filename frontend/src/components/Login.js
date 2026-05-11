@@ -74,9 +74,7 @@ function Login({ onLogin }) {
                                     {loading ? 'Entrando...' : 'Entrar'}
                                 </button>
                             </form>
-                            <div className="mt-3 text-muted">
-                                <small>Use email: admin@quiztransito.com e senha: admin123</small>
-                            </div>
+                    
                         </div>
                     </div>
                 </div>
